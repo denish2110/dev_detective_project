@@ -173,7 +173,7 @@ function init() {
   }
 
 
-  //by default, pranaygupta ki info show krre h UI pr
+  //by default UI pr
   getUserData(url + "denish2110");
 }
 
